@@ -113,6 +113,10 @@ class MVC:
         fichero.close()
 ```
 
+**UML**
+
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/91721875/166558853-e1b15290-f644-4635-9439-e778a55b7e2f.png">
+
 ***
 
 ## Ejercicio 3:<a name="id3"></a>
