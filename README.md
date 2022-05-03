@@ -25,9 +25,9 @@ En esta tarea nos proponen tres ejercicios distintos.
 ***
 ## Índice
 
-1. Ejercicio 1(#id1)
-2. Ejercicio 2(#id2)
-3. Ejercicio 3(#id3)
+1. [Ejercicio 1](#id1)
+2. [Ejercicio 2](#id2)
+3. [Ejercicio 3](#id3)
 
 ***
 
