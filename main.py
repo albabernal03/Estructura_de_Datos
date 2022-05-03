@@ -1,10 +1,12 @@
 from clases.ejercicio2 import MVC
 from clases.ejercicio1 import Bloque, Si, MientrasQue, Mostrar
+from clases.ejercicio3 import Productos
 
 
 if __name__ == '__main__':
     mvc = MVC(input('Introduzca una frase:'), input('Introduzca otra frase:'))
     mvc.fichero()
+    
 if __name__ == '__main__':
     mostrar_ok = Mostrar('"OK"') 
     mostrar_ko = Mostrar('"KO"') 
@@ -12,3 +14,7 @@ if __name__ == '__main__':
     bloque_alternativa = Bloque() 
     bloque_alternativa.agregarInstruccion(alternativa) 
     bucle = MientrasQue(True, bloque_alternativa) 
+
+if __name__ == '__main__':
+    Productos.comprar('opcion')
+
