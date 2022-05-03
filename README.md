@@ -156,6 +156,9 @@ class Productos:
             return
 ```
 
+**UML**
+
+<img width="188" alt="image" src="https://user-images.githubusercontent.com/91721875/166559338-c67fb1cc-c2f2-451f-a7fe-52a5bc47794e.png">
 
 
 ***
