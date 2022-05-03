@@ -6,7 +6,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/Estructura_de_
 ***
 <h2>¿De qué trata esta tarea?</h2>
 
-++En esta tarea nos proponen tres ejercicios distintos:++
+En esta tarea nos proponen tres ejercicios distintos:
 
 
 
@@ -28,3 +28,20 @@ Este es el link del [repositorio](https://github.com/albabernal03/Estructura_de_
 1. Ejercicio 1
 2. Ejercicio 2
 3. Ejercicio 3
+
+***
+
+## Ejercicio 1:
+
+
+***
+
+## Ejercicio 2:
+
+***
+
+## Ejercicio 3:
+
+
+
+***
