@@ -76,6 +76,10 @@ class Mostrar:
 
 ```
 
+**UML**
+
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/91721875/166558356-cb2c8087-e561-4b8b-819f-f74a34b84602.png">
+
 ***
 
 ## Ejercicio 2:<a name="id2"></a>
