@@ -1,20 +1,17 @@
 import time
-import os
 
 class MVC:
     def __init__(self, linea1, linea2):
         self.linea1 = linea1
         self.linea2 = linea2
-    def mensaje(self):
-        linea1 = input('Introduzca una frase:')
-        linea2 = input('Introduzca otra frase:')
-        #A continuacion convertimos a mayusculas las lineas y comprobamos que son cadeas de caracteres
+
         if isinstance(linea1, str) and isinstance(linea2, str): #Comprobamos que las lineas son cadeas de caracteres con isinstance el cual devuelve un booleano
             linea1 = linea1.upper()
             linea2 = linea2.upper()
         else:
             print('No es una cadena de caracteres')
             return
+
     def fichero(self):
         #A continuacion creamos el fichero
         fichero = open('ejercicio2.txt', 'w')
@@ -25,6 +22,7 @@ class MVC:
         #Cerramos el archivo en 10 segundos
         time.sleep(10)
         fichero.close()
-        os.remove(fichero)
 
-    
+#Ejectuamos la clase, esto luego va en el main
+mvc = MVC(input('Introduzca una frase:'), input('Introduzca otra frase:'))
+mvc.fichero()
