@@ -25,13 +25,13 @@ En esta tarea nos proponen tres ejercicios distintos.
 ***
 ## Índice
 
-1. Ejercicio 1
-2. Ejercicio 2
-3. Ejercicio 3
+1. Ejercicio 1(#id1)
+2. Ejercicio 2(#id2)
+3. Ejercicio 3(#id3)
 
 ***
 
-## Ejercicio 1:
+## Ejercicio 1:<a name="id1"></a>
 
 **Código**
 
@@ -78,7 +78,7 @@ class Mostrar:
 
 ***
 
-## Ejercicio 2:
+## Ejercicio 2:<a name="id2"></a>
 
 **Código**
 
@@ -111,7 +111,7 @@ class MVC:
 
 ***
 
-## Ejercicio 3:
+## Ejercicio 3:<a name="id3"></a>
 
 **Código**
 
