@@ -72,7 +72,7 @@ class Mostrar:
     # en salida estándar. 
     def __init__(self, mensaje): 
         self.mensaje = mensaje 
-#Y aquí hay un pequeño "programa" escrito usando estas clases:
+
 
 ```
 
